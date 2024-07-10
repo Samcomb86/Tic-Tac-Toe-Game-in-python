@@ -1,0 +1,20 @@
+Tic Tac Toe Game with Python and Tkinter
+This project implements a classic Tic Tac Toe game using Python and the Tkinter library for creating graphical user interfaces. Players take turns making moves on a shared device, and the game display shows the current player’s turn and highlights winning combinations.
+
+Features
+A 3x3 game board with buttons representing each cell
+Alternating turns between players (X and O)
+Detection of winning combinations (rows, columns, diagonals)
+Option to play again after a win or tie
+Simple and intuitive GUI
+How to Run
+Make sure you have Python installed on your system.
+Clone this repository or download the tic_tac_toe.py file.
+Open a terminal or command prompt and navigate to the project directory.
+Run the game by executing the following command:
+python tic_tac_toe.py
+
+Enjoy playing Tic Tac Toe!
+Dependencies
+Python 3.x (already included in most systems)
+Tkinter (Python’s standard GUI library)
